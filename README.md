@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpringBoot-MVC-application
 SpringBoot Gradle MVC  sample application
 
@@ -27,3 +28,7 @@ And you are good to go.
   
  
   
+=======
+# spring-boot-maven-mvc
+spring-boot-maven-mvc
+>>>>>>> 7288cca40ef6f885648f39976a88a4ca939644f5
