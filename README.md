@@ -20,7 +20,7 @@ To use this application follow the steps listed below
 
 Home Page
 
-![Home Page](img/list)
+![Home Page](img/list.png "Home Page")
 
 Add New Data
 
@@ -28,7 +28,7 @@ Add New Data
 
 Edit Data
 
-![Edit Data](img/edit.png)
+![Edit Data](img/edit.png "Edit Data")
 
 And you are good to go. 
 
