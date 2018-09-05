@@ -1,4 +1,4 @@
-package com.ekiras;
+package com.hendisantika;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

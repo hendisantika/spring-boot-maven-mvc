@@ -1,7 +1,5 @@
-package com.ekiras.dao;
+package com.hendisantika.dao;
 
-import com.ekiras.domain.Person;
-import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 /**

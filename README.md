@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SpringBoot-MVC-application
 SpringBoot Gradle MVC  sample application
 
@@ -10,7 +9,7 @@ This is a sample Spring Boot Application that uses
   5. Gradle
   
 To use this application follow the steps listed below
-  1. git clone git@github.com:gitekiras/spring-boot-gradle-mvc.git
+  1. git clone https://github.com/hendisantika/spring-boot-maven-mvc,git
   2. go to this directory
   3. add mysql database name and password in application.properties
   4. go to mysql and create a database with name mentioned in application.properties
@@ -18,17 +17,19 @@ To use this application follow the steps listed below
     a. gradle clean;
     b. gradle build;
     c. gradle bootRun;
-  
+
+Home Page
+
+![Home Page](img/list)
+
+Add New Data
+
+![Add New Data](img/add.png "Add New Data")
+
+Edit Data
+
+![Edit Data](img/edit.png)
 
 And you are good to go. 
 
 #Happy coding !!
-    
-  
-  
- 
-  
-=======
-# spring-boot-maven-mvc
-spring-boot-maven-mvc
->>>>>>> 7288cca40ef6f885648f39976a88a4ca939644f5

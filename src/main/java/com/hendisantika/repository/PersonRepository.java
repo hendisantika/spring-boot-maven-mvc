@@ -1,6 +1,6 @@
-package com.ekiras.repository;
+package com.hendisantika.repository;
 
-import com.ekiras.domain.Person;
+import com.hendisantika.domain.Person;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

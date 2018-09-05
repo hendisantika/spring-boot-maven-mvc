@@ -1,4 +1,4 @@
-package com.ekiras.config;
+package com.hendisantika.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

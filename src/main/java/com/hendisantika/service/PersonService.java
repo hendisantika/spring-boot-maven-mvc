@@ -1,8 +1,8 @@
-package com.ekiras.service;
+package com.hendisantika.service;
 
-import com.ekiras.dao.PersonDAO;
-import com.ekiras.domain.Person;
-import com.ekiras.repository.PersonRepository;
+import com.hendisantika.dao.PersonDAO;
+import com.hendisantika.domain.Person;
+import com.hendisantika.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
