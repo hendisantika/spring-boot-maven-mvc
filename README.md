@@ -9,7 +9,7 @@ This is a sample Spring Boot Application that uses
   5. Gradle
   
 To use this application follow the steps listed below
-  1. git clone https://github.com/hendisantika/spring-boot-maven-mvc,git
+  1. git clone https://github.com/hendisantika/spring-boot-maven-mvc.git
   2. go to this directory
   3. add mysql database name and password in application.properties
   4. go to mysql and create a database with name mentioned in application.properties
