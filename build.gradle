@@ -3,7 +3,6 @@ buildscript {
         springBootVersion = '2.2.0.RELEASE'
     }
     repositories {
-        maven { url "http://repo.spring.io/libs-milestone" }
         mavenCentral()
     }
     dependencies {
@@ -29,7 +28,6 @@ targetCompatibility = 1.7
 
 repositories {
     mavenCentral()
-    maven { url "http://repo.spring.io/libs-milestone" }
 }
 
 configurations {

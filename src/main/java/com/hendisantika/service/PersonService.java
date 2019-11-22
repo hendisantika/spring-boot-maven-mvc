@@ -6,6 +6,8 @@ import com.hendisantika.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Optional;
+
 /**
  * Created by ekansh on 13/7/15.
  */
@@ -22,8 +24,8 @@ public class PersonService {
         return personRepository.findAll();
     }
 
-    public Person findById(Long id){
-        return personRepository.findOne(id);
+    public Optional<Person> findById(Long id) {
+        return personRepository.findById(id);
     }
 
     public Person save(Person person){
