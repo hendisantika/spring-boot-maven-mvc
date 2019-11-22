@@ -14,7 +14,7 @@ buildscript {
 apply plugin: 'java'
 apply plugin: 'eclipse-wtp'
 apply plugin: 'idea'
-apply plugin: 'spring-boot' 
+apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management' 
 apply plugin: 'war'
 
@@ -52,6 +52,6 @@ eclipse {
     }
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion = '2.3'
-}
+//task wrapper(type: Wrapper) {
+//    gradleVersion = '5.0'
+//}
